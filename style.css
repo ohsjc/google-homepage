@@ -12,6 +12,18 @@
 .buttonholder{
     margin-top: 29px;
 }
+.searchbutton{
+    height: 36px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #5f6368;
+    background-color: #f2f2f2;
+    border: #f2f2f2 1px solid;
+    padding: 0 16px;
+    margin: 0 4px;
+}
 #logo{
-    margin-bottom: 21px;
+    padding-top: 89px;
+    padding-bottom: 21px;
 }
