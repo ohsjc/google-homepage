@@ -3,17 +3,34 @@
     padding-top: 109px;
 }
 .longbar{
-    -webkit-appearance: none;
     height: 44px;
     width: 582px;
     border: 1px solid #dfe1e5;
     border-radius: 24px;
+    margin:0 auto;
+
 }
+.searchtext{
+    -webkit-appearance: none;
+    height: 34px;
+    width: 514px;
+    font: 16px arial, sans-serif;
+    line-height: 34;
+    border: none;
+    outline: none;
+    text-align: start;
+    float: left;
+}
+
 .buttonholder{
     margin-top: 29px;
 }
+.searchbar{
+    height: 39px;
+    padding: 5px 8px 0 20px;
+}
 .searchbutton{
-    height: 36px;
+    height: 34px;
     font-size: 14px;
     border-radius: 4px;
     cursor: pointer;
@@ -23,6 +40,20 @@
     padding: 0 16px;
     margin: 0 4px;
 }
+.mic{
+    height: 44px;
+    width: 24px;
+    padding: 0 8px;
+    float: right;
+}
+
+.lilmic{
+    height: 24px;
+    width: 24px;
+    background-size: 24px;
+    vertical-align: middle
+}
+
 #logo{
     padding-top: 89px;
     padding-bottom: 21px;
